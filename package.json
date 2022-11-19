@@ -1,1 +1,25 @@
-../backbiter.online/package.json
+{
+  "dependencies": {
+    "npm": "^9.1.2"
+  },
+  "name": "backbiter.online",
+  "version": "4.2.0",
+  "description": "bite back!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/o-bs/backbiter.online.git"
+  },
+  "author": "ungtb10d <16118736501@blckswan.no>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/o-bs/backbiter.online/issues"
+  },
+  "homepage": "https://github.com/o-bs/backbiter.online#readme",
+  "scripts": {
+    "test": "tap **/*"
+  },
+  "keywords": [
+    "gh-pages"
+  ]
+}

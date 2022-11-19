@@ -1,1 +1,3 @@
-../backbiter.online/Dockerfile
+FROM scratch
+add . .
+
